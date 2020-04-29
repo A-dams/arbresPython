@@ -3,8 +3,10 @@ class ArbreBinaire:
     leftNode = None
     rightNode = None
 
-    #Constructeur
+
     def __init__(self):
+        pass    
+
 
     def getValNode(self):
         return self.valNode
