@@ -5,7 +5,7 @@ class ArbreBinaire:
 
 
     def __init__(self):
-        pass    
+        pass
 
 
     def getValNode(self):
@@ -30,6 +30,14 @@ class ArbreBinaire:
         print("Noeud = ",self.valNode)
         print("Sous-noeud gauche = ", self.leftNode)
         print("Sous-noeud droit = ", self.rightNode)
+
+    def prefixe(self):
+        
+
+class TestArbreBinaire:
+    def __init__(self):
+        pass
+
 
 a1 = ArbreBinaire()
 
